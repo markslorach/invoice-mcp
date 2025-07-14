@@ -243,9 +243,13 @@ The invoice template can be edited through `invoice-template.tsx` and `styles.ts
 - React PDF
 - Vite
 
+## Local Model Support
+
+Currently testing compatibility with local AI models via LM Studio. While the MCP server works, local models are less reliable than Claude and may return errors. I'm looking at ways to improve the code to help with this.
+
 ## Privacy
 
-When using online AI services such as Claude Desktop, only include information you're comfortable sharing as data may be processed for model training. For enhanced privacy, this MCP server can be configured to work with local solutions such as Open WebUI.
+When using online AI services such as Claude Desktop, only include information you're comfortable sharing as data may be processed for model training.
 
 ## In Progress
 
