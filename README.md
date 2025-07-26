@@ -256,6 +256,10 @@ When using online AI services such as Claude Desktop, only include information y
 - [ ] Support for generating quotes
 - [ ] Invoice template refinements
 
+## Licence
+
+This project is licensed under the MIT Licence - see the [LICENSE](LICENSE) file for details.
+
 ## Acknowledgements
 
 - [Figma Community Invoice Templates](https://www.figma.com/design/MN4zNKiM50IpphAOlRulJG/Invoice-Templates--Community-?node-id=0-1&p=f) - Invoice design inspiration
