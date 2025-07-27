@@ -256,6 +256,18 @@ When using online AI services such as Claude Desktop, only include information y
 - [ ] Support for generating quotes
 - [ ] Invoice template refinements
 
+## Contributing
+
+Contributions are welcome! If you'd like to improve the Invoice MCP server -
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+For major changes, please open an issue first to discuss what you'd like to change.
+
 ## Licence
 
 This project is licensed under the MIT Licence - see the [LICENSE](LICENSE) file for details.
